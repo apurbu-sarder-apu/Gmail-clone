@@ -84,6 +84,175 @@ function EmailList() {
                     description="Hey fellow stream"
                     time="10pm"
                 />
+                                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow streamer"
+                    description="This is a test"
+                    time="10pm"
+                />
+
+                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow streamer"
+                    description="Hey fellow stream"
+                    time="10pm"
+                />
+                                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow streamer"
+                    description="This is a test"
+                    time="10pm"
+                />
+
+                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow streamer"
+                    description="Hey fellow stream"
+                    time="10pm"
+                />
+                                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow streamer"
+                    description="This is a test"
+                    time="10pm"
+                />
+
+                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow streamer"
+                    description="Hey fellow stream"
+                    time="10pm"
+                />
+                                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow streamer"
+                    description="This is a test"
+                    time="10pm"
+                />
+
+                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow streamer"
+                    description="Hey fellow stream"
+                    time="10pm"
+                />
+                                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow streamer"
+                    description="This is a test"
+                    time="10pm"
+                />
+
+                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow streamer"
+                    description="Hey fellow stream"
+                    time="10pm"
+                />
+                                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow streamer"
+                    description="This is a test"
+                    time="10pm"
+                />
+
+                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow streamer"
+                    description="Hey fellow stream"
+                    time="10pm"
+                />
+                                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow streamer"
+                    description="This is a test"
+                    time="10pm"
+                />
+
+                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow streamer"
+                    description="Hey fellow stream"
+                    time="10pm"
+                />
+                                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow streamer"
+                    description="This is a test"
+                    time="10pm"
+                />
+
+                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow streamer"
+                    description="Hey fellow stream"
+                    time="10pm"
+                />
+                                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow streamer"
+                    description="This is a test"
+                    time="10pm"
+                />
+
+                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow streamer"
+                    description="Hey fellow stream"
+                    time="10pm"
+                />
+                                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow streamer"
+                    description="This is a test"
+                    time="10pm"
+                />
+
+                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow streamer"
+                    description="Hey fellow stream"
+                    time="10pm"
+                />
+                                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow streamer"
+                    description="This is a test"
+                    time="10pm"
+                />
+
+                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow streamer"
+                    description="Hey fellow stream"
+                    time="10pm"
+                />
+                                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow streamer"
+                    description="This is a test"
+                    time="10pm"
+                />
+
+                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow streamer"
+                    description="Hey fellow stream"
+                    time="10pm"
+                />
+                                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow streamer"
+                    description="This is a test"
+                    time="10pm"
+                />
+
+                <EmailRow
+                    title="Twitch"
+                    subject="Hey fellow streamer"
+                    description="Hey fellow stream"
+                    time="10pm"
+                />
             </div>
         </div>
     );

@@ -9,15 +9,20 @@ import SendMail from './SendMail';
 import { useSelector } from 'react-redux';
 import {selectSendMessageIsOpen} from "./features/mailSlice";
 import { PhoneBluetoothSpeakerTwoTone } from '@material-ui/icons';
+import { selectUser } from './features/userSlice';
 
 
 function App() {
   const sendMessageIsOpen = useSelector(selectSendMessageIsOpen);
-
+  const user = useSelector(selectUser);
 
   return (
     <Router>
-      <div className="app">
+
+      {!user ? (
+        <Login />
+      ) : (
+        <div className="app">
         <Header />
         <div className="app__body">
             <Sidebar />
@@ -34,6 +39,8 @@ function App() {
 
         {sendMessageIsOpen && <SendMail />}
       </div>
+      )}
+
     </Router>
   );
 }
