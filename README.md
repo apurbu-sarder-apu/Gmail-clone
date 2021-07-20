@@ -4,7 +4,8 @@
                                                                       About this project
                                                                       
                                                            GMAIL with React-Router, Redux & Firebase
-                                  👉🏻👉🏻👉🏻👉🏻👉🏻👉🏻👉🏻👉🏻👉🏻 My project functionality screen record: https://youtu.be/l78BH8jA5GY
+                                                           [Create React App](https://github.com/facebook/create-react-app).
+                                  👉🏻👉🏻👉🏻👉🏻👉🏻👉🏻👉🏻👉🏻👉🏻 [ :yt: My project functionality screen record](https://youtu.be/l78BH8jA5GY)
                                                                 
                                                                 Starting the Build
                                                                 Building the Header Component
